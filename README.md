@@ -2,7 +2,7 @@
 Use o github caso nosso fórum seja bloqueado pelo seu operadora
 Atualizações aparelhos Atto
 
-![logo](https://assets.website-files.com/5d08fc16370a894074efba12/5d0ba45d641a58de858f2102_Watch_What_You_Want_GIF_v1._CB496144734_.gif)
+![logo](https://i.ibb.co/R3hPJWy/banner-atto.gif)
 
 Participe do suporte no grupo no Telegram. É seguro, sem expor seu contato ! 
 https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
@@ -15,7 +15,7 @@ https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
 
 ### Atto Net X
 
-![logo](https://atto.tv/img/anx/anx1.png)
+![logo](https://i.ibb.co/7Cg3Wyk/attox.png)
 
 **Atualização Oficial do Atto Net X**
 
@@ -36,10 +36,14 @@ Não precisa descompactar..
   - Selecione a opção, "dispositivo", e pressione OK
   - Escolha, "caminho do arquivo", selecione o arquivo .BIN do seu pendrive
   - "Atualizar"
+  
+**Videos Youtube**
+  - [Atto Net X atualização](https://youtu.be/YIZHpgoOohk)
+  - 
 
 ### Atto Net 5
 
-![logo](https://atto1.websiteseguro.com/tools/marketing/images/atto-net-5/solid/atto-net-5-13-ap-e-frente-direita-solid-1920x1080.jpg)
+![logo](https://i.ibb.co/wMbKrTG/atto5.jpg)
 
 **Atualização Oficial do Atto Net 5**
 
