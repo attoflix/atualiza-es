@@ -151,8 +151,6 @@ OBS: Tuners são invertidos (T1 SKS - T2 Canais)
 Baixar o arquivo:
 http://gatotv.is-very-good.org:8088/pixel-premium-0186.zip
 
-Não precisa descompactar..
-
 **Changelog**
   - Melhoria na estabilidade de conexão com os serviços IKS - SKS
   - Correção no VOD
@@ -184,8 +182,6 @@ Não precisa descompactar..
 
 Baixar o arquivo:
 http://gatotv.is-very-good.org:8088/pixel-core-0186.zip
-
-Não precisa descompactar..
 
 **Changelog**
   - Melhoria na estabilidade de conexão com os serviços IKS - SKS
