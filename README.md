@@ -203,7 +203,7 @@ Não precisa descompactar..
   - Espere reiniciar e otimizar;
 
  
- ### Atto Pixel Plus
+ ### Atto Pixel
 
 ![logo](https://i.ibb.co/c1XcknW/pixel-plus.jpg)
 
