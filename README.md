@@ -144,7 +144,7 @@ OBS: Tuners são invertidos (T1 SKS - T2 Canais)
   
 ### Atto Pixel Premium
 
-![logo](https://i.ibb.co/crpvq8D/fluxon.png)
+![logo](https://i.ibb.co/q7JcPx9/pixel-premium.png)
 
 **Atualização Oficial do Atto Pixel Premium**
 
@@ -176,4 +176,34 @@ Não precisa descompactar..
   - [CS Oscam Atto Pixel Premium - Ativação](https://youtu.be/1ENj0eRlwAo)
   
   
+### Atto Pixel Core
+
+![logo](https://i.ibb.co/MBry0YB/pixel-core.png)
+
+**Atualização Oficial do Atto Pixel Core**
+
+Baixar o arquivo:
+http://gatotv.is-very-good.org:8088/pixel-core-0186.zip
+
+Não precisa descompactar..
+
+**Changelog**
+  - Melhoria na estabilidade de conexão com os serviços IKS - SKS
+  - Correção no VOD
+
+**Procedimentos pra atualizar pelo pendrive:**
+  - Após baixar o arquivo "pixel-core-XXX.zip", extrair o arquivo "update.zip" que vem dentro dele;
+  - Copiar "update.zip" (900MB) para o pendrive;
+  - Tirar energía do P.Core;
+  - Pendrive ligado na entrada USB dianteira do P.Core;
+  - Pressione gentilmente o botão liga/desliga do P.Core e não solta;
+  - Ligue a energia para iniciar o processo;
+  - Vai aparecer "UPdt" no visor de LED após não mais de 5 s;
+  - Se der certo, o Android color verde na tela da TV não irá morrer no final do processo;
+  - Espere reiniciar e otimizar;
+
+**Videos Youtube**
+  -
   
+  
+    
