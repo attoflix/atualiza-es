@@ -17,8 +17,8 @@ https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
 * [Atualização EterNix V110 - 23 Agosto 2019](#eternix)
 * [Atualização Atto FluxOn V3.22.1 - 23 Agosto 2019](#atto-fluxon)
 * [Atualização Atto Pixel Premium V186 - 22 Agosto 2019](#atto-pixel-premium)
-* [Atualização Atto Core V3.22.1 - 22 Agosto 2019](#atto-core)
-* [Atualização Atto Pixel V3.22.1 - 07 Julho 2018](#atto-pixel)
+* [Atualização Atto Core V186 - 22 Agosto 2019](#atto-pixel-core)
+* [Atualização Atto Pixel - 07 Julho 2018](#atto-pixel)
 
 ### Atto Net X
 
@@ -202,8 +202,4 @@ Não precisa descompactar..
   - Se der certo, o Android color verde na tela da TV não irá morrer no final do processo;
   - Espere reiniciar e otimizar;
 
-**Videos Youtube**
-  -
-  
-  
     
