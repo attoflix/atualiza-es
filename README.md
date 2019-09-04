@@ -15,7 +15,10 @@ https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
 * [Atualização Atto NET X V250 - 23 Agosto 2019](#atto-x)
 * [Atualização Atto NET 5 V2.40 - 23 Agosto 2019](#atto-5)
 * [Atualização EterNix V110 - 23 Agosto 2019](#eternix)
-* [Atualização Atto FluOn V3.22.1 - 23 Agosto 2019](#atto-fluxon)
+* [Atualização Atto FluxOn V3.22.1 - 23 Agosto 2019](#atto-fluxon)
+* [Atualização Atto Pixel Premium V186 - 22 Agosto 2019](#atto-pixel-premium)
+* [Atualização Atto Core V3.22.1 - 22 Agosto 2019](#atto-core)
+* [Atualização Atto Pixel V3.22.1 - 07 Julho 2018](#atto-pixel)
 
 ### Atto Net X
 
@@ -137,5 +140,40 @@ OBS: Tuners são invertidos (T1 SKS - T2 Canais)
 **Videos Youtube**
   - [Unboxing ATTO.TV FluxOn](https://youtu.be/g7MfvzQOaVU)
   - [COMO ATUALIZAR E CONFIGURA O ATTO FLUXON TV E ATIVA IKS](https://youtu.be/xD4eglJj-Ng)
+  
+  
+### Atto Pixel Premium
+
+![logo](https://i.ibb.co/crpvq8D/fluxon.png)
+
+**Atualização Oficial do Atto Pixel Premium**
+
+Baixar o arquivo:
+http://gatotv.is-very-good.org:8088/pixel-premium-0186.zip
+
+Não precisa descompactar..
+
+**Changelog**
+  - Melhoria na estabilidade de conexão com os serviços IKS - SKS
+  - Correção no VOD
+
+**Procedimentos pra atualizar pelo pendrive:**
+  - Após baixar o arquivo "pixel-premium-XXX.zip", extrair o arquivo "update.zip" que vem dentro dele;
+  - Copiar "update.zip" (900MB) para o pendrive;
+  - Tirar energía do P.Premium;
+  - Pendrive ligado na entrada USB dianteira do P.Premium;
+  - Pressione gentilmente o botão liga/desliga do Premium e não solta;
+  - Ligue a energia para iniciar o processo;
+  - Vai aparecer "UPdt" no visor de LED após não mais de 5 s;
+  - Se der certo, o Android color verde na tela da TV não irá morrer no final do processo;
+  - Espere reiniciar e otimizar;
+
+**Videos Youtube**
+  - [Atualização Pixel Premium](https://youtu.be/fvXLoq-1-Xw)
+  - [Demonstracao Atto Pixel Premium Android TV](https://youtu.be/66t7OJKJEPs)  
+  - [Demonstracao Pixel Premium Busca Canais Sat e Cable Sks e CS](https://youtu.be/pXILcitfcws)  
+  - [Atto Pixel Premium - Guia para iniciantes](https://youtu.be/2DTsCLBZx50)  
+  - [CS Oscam Atto Pixel Premium - Ativação](https://youtu.be/1ENj0eRlwAo)
+  
   
   
