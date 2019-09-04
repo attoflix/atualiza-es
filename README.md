@@ -181,7 +181,7 @@ http://www.mediafire.com/file/o4j2zcx68xb8cz7/pixel-premium-0186.zip/file
 **Atualização Oficial do Atto Pixel Core**
 
 Baixar o arquivo:
-http://gatotv.is-very-good.org:8088/pixel-core-0186.zip
+http://gatotv.is-very-good.org:8088/pixel-core-0186.zip Aguardando nova att link OFF
 
 **Changelog**
   - Melhoria na estabilidade de conexão com os serviços IKS - SKS
