@@ -24,42 +24,44 @@ http://www.mediafire.com/file/b293cexeg41okus/ANXv250.bin
 
 Não precisa descompactar..
 
-Changelog
+**Changelog**
   - Correção no VOD
 
-- Procedimentos pra atualizar pelo pendrive:
-
-    - Após baixar o arquivo "ANX.xx.BIN", copiar para o pendrive;
-    - Pendrive ligado na entrada USB dianteira do Aparelho;
-    - Entrar, em MENU// Configurar// Sistema // Atualização do Sistema
-    - Digitar a senha por default e 0000
-    - Selecione a opção, "dispositivo", e pressione OK
-    - Escolha, "caminho do arquivo", selecione o arquivo .BIN do seu pendrive
-    - "Atualizar"
+**Procedimentos pra atualizar pelo pendrive:**
+  - Após baixar o arquivo "ANX.xx.BIN";
+  - Verifique o tamanho do arquivo baixado (16MB), copiar para o pendrive;
+  - Pendrive ligado na entrada USB dianteira do Aparelho;
+  - Entrar, em MENU// Configurar// Sistema // Atualização do Sistema
+  - Digitar a senha por default e 0000
+  - Selecione a opção, "dispositivo", e pressione OK
+  - Escolha, "caminho do arquivo", selecione o arquivo .BIN do seu pendrive
+  - "Atualizar"
 
 ### Atto Net 5
 
 ![logo](https://atto1.websiteseguro.com/tools/marketing/images/atto-net-5/solid/atto-net-5-13-ap-e-frente-direita-solid-1920x1080.jpg)
 
-**Atualização Oficial do Atto Net X**
+**Atualização Oficial do Atto Net 5**
 
 Arquivos para o Atto NET 5:
 
 http://www.mediafire.com/file/0hyu9or4q3susa5/AN5v240-All.bin/file -- Todas as cidades
 http://www.mediafire.com/file/14ctretwbmmzdgv/AN5v240-RJ.bin/file -- Rio de Janeiro
 http://www.mediafire.com/file/uf6ye3f5c2sxp2k/AN5v240-SP.bin/file -- São paulo
+
 Não precisa descompactar..
 
-Changelog
+**Changelog**
   - Correção no VOD
 
-- Procedimentos pra atualizar pelo pendrive:
-    - Após baixar o arquivo .BIN, copiar para o pendrive;
-    - Pendrive ligado na entrada USB dianteira do Atto NET 5
-    - Entrar, em MENU// sistema // atualização do sistema
-    - Digitar a senha por default e 0000
-    - Selecione a opção, "dispositivo", e pressione OK
-    - Escolha, "caminho do arquivo", selecione o arquivo .BIN do seu pendrive
-    - "Atualizar"
+**Procedimentos pra atualizar pelo pendrive:**
+  - Após baixar o arquivo .BIN;
+  - Verifique o tamanho do arquivo baixado (16MB), copiar para o pendrive;
+  - Pendrive ligado na entrada USB dianteira do Atto NET 5
+  - Entrar, em MENU// Sistema // Atualização do sistema
+  - Digitar a senha por default e 0000
+  - Selecione a opção, "dispositivo", e pressione OK
+  - Escolha, "caminho do arquivo", selecione o arquivo .BIN do seu pendrive
+  - "Atualizar"
 
 
