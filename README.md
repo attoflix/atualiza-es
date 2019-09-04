@@ -1,6 +1,6 @@
 # Atualizações Atto - Alternative Github
 Use nosso repositório de atualizações no GitHub, se você tiver problemas para acessar nosso fórum:
-  - https://atto.tv/forum/
+  - https://atto.tv/forum
   - https://atto.tv/antiforum
   
 Atualizações aparelhos Atto
@@ -14,7 +14,8 @@ https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
 
 * [Atualização Atto NET X V250 - 23 Agosto 2019](#atto-x)
 * [Atualização Atto NET 5 V2.40 - 23 Agosto 2019](#atto-5)
-
+* [Atualização EterNix V110 - 23 Agosto 2019](#eternix)
+* [Atualização Atto NET 5 V2.40 - 23 Agosto 2019](#atto-5)
 
 ### Atto Net X
 
@@ -75,3 +76,36 @@ Não precisa descompactar..
   - [Atto net 5 Recovery passo a passo atualizado](https://youtu.be/zcoLB7IVCF8)
   - [Atto Net 5 funcionamento](https://youtu.be/vkXkehL_C6s)
   - [Atto net 5 configurar cs e conectar internet 2019](https://youtu.be/I6Q03lPEaAQ)
+  
+### EterNix
+
+![logo](https://i.ibb.co/HK2J7JP/EterNIX.png)
+
+**Atualização Oficial do EterNix**
+
+Baixar o arquivo:
+http://www.mediafire.com/file/e7pmtalgu8id22y/NiXv110.bin/file
+
+Não precisa descompactar..
+
+**Changelog**
+  - Correção no VOD
+
+**Procedimentos pra atualizar pelo pendrive:**
+  - Após baixar o arquivo "NiX.xx.BIN";
+  - Verifique o tamanho do arquivo baixado (16MB), copiar para o pendrive;
+  - Pendrive ligado na entrada USB dianteira do Aparelho;
+  - Entrar, em MENU// Configurar// Sistema // Atualização do Sistema
+  - Digitar a senha por default e 0000
+  - Selecione a opção, "dispositivo", e pressione OK
+  - Escolha, "caminho do arquivo", selecione o arquivo .BIN do seu pendrive
+  - "Atualizar"
+  
+**Videos Youtube**
+  - [Atualização Atto Eternix V1.10 VOD Online](https://youtu.be/Mg_9CQNhkbo)
+  - [Lançamento Atto Eternix -Demonstração Canais](https://youtu.be/7aos4bv3ZcM)
+  - [Como alterar o DNS no Atto X / EterNIX](https://youtu.be/huAKVtUkyxk)  
+  - [Unboxing Lançamento Atto Eternix 2019](https://youtu.be/X7ScNLbO02g)
+  - [Demonstração IPTV Atto Eternix V. 1.10](https://youtu.be/TTIcB7cLJFc)
+  
+  
