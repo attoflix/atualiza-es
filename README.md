@@ -13,11 +13,11 @@ https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
 # Menu
 
 * [Atualização Atto NET X V250 - 23 Agosto 2019](#atto-x)
-* [Atualização Atto NET 5 V2.40 - 23 Agosto 2019](#atto-5)
+* [Atualização Atto NET 5 V2.50 - 04 Setembro 2019](#atto-5)
 * [Atualização EterNix V110 - 23 Agosto 2019](#eternix)
 * [Atualização Atto FluxOn V3.22.1 - 23 Agosto 2019](#atto-fluxon)
-* [Atualização Atto Pixel Premium V191 - 04 Septiembre 2019](#atto-pixel-premium)
-* [Atualização Atto Core V191 - 04 Septiembre 2019](#atto-pixel-core)
+* [Atualização Atto Pixel Premium V191 - 04 Setembro 2019](#atto-pixel-premium)
+* [Atualização Atto Core V191 - 04 Setembro 2019](#atto-pixel-core)
 * [Atualização Atto Pixel - 07 Julho 2018](#atto-pixel)
 
 ### Atto Net X
@@ -56,9 +56,9 @@ Não precisa descompactar..
 
 Arquivos para o Atto NET 5:
 
-http://www.mediafire.com/file/0hyu9or4q3susa5/AN5v240-All.bin/file -- Todas as cidades
-http://www.mediafire.com/file/14ctretwbmmzdgv/AN5v240-RJ.bin/file -- Rio de Janeiro
-http://www.mediafire.com/file/uf6ye3f5c2sxp2k/AN5v240-SP.bin/file -- São paulo
+https://www.mediafire.com/file/e4kx5jv9oqyk3c1/AN5v250_All.bin/file -- Todas as cidades
+https://www.mediafire.com/file/xq03z9a40qpppf2/AN5v250_RJ.bin/file -- Rio de Janeiro
+https://www.mediafire.com/file/3x7gssq67p9v59n/AN5v250_SP.bin/file -- São paulo
 
 Não precisa descompactar..
 
