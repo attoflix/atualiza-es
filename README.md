@@ -149,7 +149,7 @@ OBS: Tuners são invertidos (T1 SKS - T2 Canais)
 **Atualização Oficial do Atto Pixel Premium**
 
 Baixar o arquivo:
-http://gatotv.is-very-good.org:8088/pixel-premium-0186.zip
+http://www.mediafire.com/file/o4j2zcx68xb8cz7/pixel-premium-0186.zip/file
 
 **Changelog**
   - Melhoria na estabilidade de conexão com os serviços IKS - SKS
