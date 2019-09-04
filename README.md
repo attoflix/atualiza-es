@@ -1,5 +1,8 @@
-# Atualizacoes Atto - Alternative Github
-Use o github caso nosso fórum seja bloqueado pelo seu operadora
+# Atualizações Atto - Alternative Github
+Use nosso repositório de atualizações no GitHub, se você tiver problemas para acessar nosso fórum:
+  - https://atto.tv/forum/
+  - https://atto.tv/antiforum
+  
 Atualizações aparelhos Atto
 
 ![logo](https://i.ibb.co/R3hPJWy/banner-atto.gif)
