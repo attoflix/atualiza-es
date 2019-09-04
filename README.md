@@ -228,3 +228,8 @@ Não precisa descompactar..
   - Entrar em // Media Center // Store // USB // Escolha o caminho do arquivo, 
   - Selecione o arquivo .upk do seu pendrive;
   - Espere reiniciar e otimizar;
+  
+Mais informação:
+https://github.com/Notos/awesome-atto-pixel
+
+
