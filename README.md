@@ -202,4 +202,25 @@ Não precisa descompactar..
   - Se der certo, o Android color verde na tela da TV não irá morrer no final do processo;
   - Espere reiniciar e otimizar;
 
-    
+ 
+ ### Atto Pixel Plus
+
+![logo](https://i.ibb.co/c1XcknW/pixel-plus.jpg)
+
+**Atualização Oficial do Atto Pixel**
+
+Baixar o arquivo:
+http://www.mediafire.com/file/34j52uv1wja584p/update-atto-pixel-20180706.upk/file
+
+Não precisa descompactar..
+
+**Changelog**
+  - Melhoria no sistema de guia XML
+
+**Procedimentos pra atualizar pelo pendrive:**
+  - Após baixar o arquivo "update-atto-pixel-xxx.upk";
+  - Copiar "update-atto-pixel-xxx.upk" (373MB) para o pendrive;
+  - Pendrive ligado na entrada USB dianteira do Pixel;
+  - Entrar em // Media Center // Store // USB // Escolha o caminho do arquivo, 
+  - Selecione o arquivo .upk do seu pendrive;
+  - Espere reiniciar e otimizar;
