@@ -89,9 +89,9 @@ Não precisa descompactar..
 **Atualização Oficial do EterNix**
 
 Baixar o arquivo:
-- http://www.mediafire.com/file/e7pmtalgu8id22y/NiXv110.bin/file
-Link Alternativo:
-- https://mega.nz/#!X5NkWSpI!0pPekAKdBq4COB-Ly9CVWHhl3g5WorM3N3RDqoYq9Tw
+  - http://www.mediafire.com/file/e7pmtalgu8id22y/NiXv110.bin/file
+  Link Alternativo:
+    - https://mega.nz/#!X5NkWSpI!0pPekAKdBq4COB-Ly9CVWHhl3g5WorM3N3RDqoYq9Tw
 
 Não precisa descompactar..
 
