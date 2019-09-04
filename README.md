@@ -28,8 +28,8 @@ https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
 
 Baixar o arquivo:
 - http://www.mediafire.com/file/b293cexeg41okus/ANXv250.bin
-Link Alternativo:
-- https://mega.nz/#!L8dkHAIQ!1_jXuuJjwRAEX4VXdb5-kiAH3iVzHvuJ0_ZaYdZe7XM
+- https://mega.nz/#!L8dkHAIQ!1_jXuuJjwRAEX4VXdb5-kiAH3iVzHvuJ0_ZaYdZe7XM   
+Alternativo
 
 Não precisa descompactar..
 
@@ -90,8 +90,8 @@ Não precisa descompactar..
 
 Baixar o arquivo:
   - http://www.mediafire.com/file/e7pmtalgu8id22y/NiXv110.bin/file
-  Link Alternativo:
-    - https://mega.nz/#!X5NkWSpI!0pPekAKdBq4COB-Ly9CVWHhl3g5WorM3N3RDqoYq9Tw
+  - https://mega.nz/#!X5NkWSpI!0pPekAKdBq4COB-Ly9CVWHhl3g5WorM3N3RDqoYq9Tw
+Alternativo
 
 Não precisa descompactar..
 
