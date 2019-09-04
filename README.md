@@ -39,7 +39,7 @@ Não precisa descompactar..
   
 **Videos Youtube**
   - [Atto Net X atualização](https://youtu.be/YIZHpgoOohk)
-  - 
+  - [Como alterar o DNS no Atto X / EterNIX](https://youtu.be/huAKVtUkyxk)
 
 ### Atto Net 5
 
@@ -68,4 +68,7 @@ Não precisa descompactar..
   - Escolha, "caminho do arquivo", selecione o arquivo .BIN do seu pendrive
   - "Atualizar"
 
-
+**Videos Youtube**
+  - [Atto net 5 Recovery passo a passo atualizado](https://youtu.be/zcoLB7IVCF8)
+  - [Atto Net 5 funcionamento](https://youtu.be/vkXkehL_C6s)
+  - [Atto net 5 configurar cs e conectar internet 2019](https://youtu.be/I6Q03lPEaAQ)
