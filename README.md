@@ -29,7 +29,7 @@ https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
 Baixar o arquivo:
 - http://www.mediafire.com/file/b293cexeg41okus/ANXv250.bin
 - https://mega.nz/#!L8dkHAIQ!1_jXuuJjwRAEX4VXdb5-kiAH3iVzHvuJ0_ZaYdZe7XM   
-Alternativo
+(Link Alternativo)
 
 Não precisa descompactar..
 
@@ -45,7 +45,9 @@ Não precisa descompactar..
   - Selecione a opção, "dispositivo", e pressione OK;
   - Escolha, "caminho do arquivo", selecione o arquivo .BIN do seu pendrive;
   - "Atualizar";
-  
+
+Formatar o pendrive, em caso de "falha na atualização" ou "Arquivo invalido"
+
 **Videos Youtube**
   - [Atto Net X atualização](https://youtu.be/YIZHpgoOohk)
   - [Como alterar o DNS no Atto X / EterNIX](https://youtu.be/huAKVtUkyxk)
@@ -91,7 +93,7 @@ Não precisa descompactar..
 Baixar o arquivo:
   - http://www.mediafire.com/file/e7pmtalgu8id22y/NiXv110.bin/file
   - https://mega.nz/#!X5NkWSpI!0pPekAKdBq4COB-Ly9CVWHhl3g5WorM3N3RDqoYq9Tw
-Alternativo
+(Link Alternativo)
 
 Não precisa descompactar..
 
@@ -107,6 +109,8 @@ Não precisa descompactar..
   - Selecione a opção, "dispositivo", e pressione OK;
   - Escolha, "caminho do arquivo", selecione o arquivo .BIN do seu pendrive;
   - "Atualizar";
+  
+Formatar o pendrive, em caso de "falha na atualização" ou "Arquivo invalido"...
   
 **Videos Youtube**
   - [Atualização Atto Eternix V1.10 VOD Online](https://youtu.be/Mg_9CQNhkbo)
