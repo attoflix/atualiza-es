@@ -28,7 +28,7 @@ https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
 
 Baixar o arquivo:
 - http://www.mediafire.com/file/b293cexeg41okus/ANXv250.bin
-- https://mega.nz/#!L8dkHAIQ!1_jXuuJjwRAEX4VXdb5-kiAH3iVzHvuJ0_ZaYdZe7XM   
+- https://mega.nz/#!L8dkHAIQ!1_jXuuJjwRAEX4VXdb5-kiAH3iVzHvuJ0_ZaYdZe7XM
 (Link Alternativo)
 
 Não precisa descompactar..
