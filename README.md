@@ -46,7 +46,8 @@ Não precisa descompactar..
   - Escolha, "caminho do arquivo", selecione o arquivo .BIN do seu pendrive;
   - "Atualizar";
 
-Formatar o pendrive, em caso de "falha na atualização" ou "Arquivo invalido"
+Formatar o pendrive, em caso de "Arquivo invalido" ou "Atualização Falhou"
+Reset de fabrica do aparelho, em caso de "Arquivo invalido" ou "Atualização Falhou"
 
 **Videos Youtube**
   - [Atto Net X atualização](https://youtu.be/YIZHpgoOohk)
