@@ -16,8 +16,8 @@ https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
 * [Atualização Atto NET 5 V2.50 - 04 Setembro 2019](#atto-5)
 * [Atualização EterNix V110 - 23 Agosto 2019](#eternix)
 * [Atualização Atto FluxOn V3.22.1 - 23 Agosto 2019](#atto-fluxon)
-* [Atualização Atto Pixel Premium V191 - 04 Setembro 2019](#atto-pixel-premium)
-* [Atualização Atto Core V191 - 04 Setembro 2019](#atto-pixel-core)
+* [Atualização Atto Pixel Premium V186 - 22 Agosto 2019](#atto-pixel-premium)
+* [Atualização Atto Core V186 - 22 Agosto 2019](#atto-pixel-core)
 * [Atualização Atto Pixel - 07 Julho 2018](#atto-pixel)
 
 ### Atto Net X
@@ -158,9 +158,7 @@ OBS: Tuners são invertidos (T1 SKS - T2 Canais)
 **Atualização Oficial do Atto Pixel Premium**
 
 Baixar o arquivo:
-http://gatotv.is-very-good.org:8088/pixel-premium-0191.zip
-Link Alternativo:
-http://bored.b-cdn.net/bin/pixel-premium-0191.zip
+http://gatotv.is-very-good.org:8088/pixel-premium-0186.zip
 
 **Changelog**
   - Melhoria na estabilidade de conexão com os serviços IKS - SKS
@@ -192,9 +190,7 @@ http://bored.b-cdn.net/bin/pixel-premium-0191.zip
 **Atualização Oficial do Atto Pixel Core**
 
 Baixar o arquivo:
-http://gatotv.is-very-good.org:8088/pixel-core-0191.zip
-Link Alternativo:
-http://bored.b-cdn.net/bin/pixel-core-0191.zip
+http://gatotv.is-very-good.org:8088/pixel-core-0186.zip
 
 **Changelog**
   - Melhoria na estabilidade de conexão com os serviços IKS - SKS
