@@ -159,6 +159,7 @@ OBS: Tuners são invertidos (T1 SKS - T2 Canais)
 
 Baixar o arquivo:
 * http://d1we923v3zvjj.cloudfront.net/pixel-premium-0194.zip
+
 Link alternativo:
 * http://gatotv.is-very-good.org:8088/pixel-premium-0194.zip
 
