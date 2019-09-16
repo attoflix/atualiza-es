@@ -158,9 +158,9 @@ OBS: Tuners são invertidos (T1 SKS - T2 Canais)
 **Atualização do Atto Pixel Premium V194**
 
 Baixar o arquivo:
-http://d1we923v3zvjj.cloudfront.net/pixel-premium-0194.zip
+* http://d1we923v3zvjj.cloudfront.net/pixel-premium-0194.zip
 Link alternativo:
-http://gatotv.is-very-good.org:8088/pixel-premium-0194.zip
+* http://gatotv.is-very-good.org:8088/pixel-premium-0194.zip
 
 **Changelog**
   - Resolve bug IKS Cabo v193
