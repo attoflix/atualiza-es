@@ -12,13 +12,13 @@ https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
 
 # Menu
 
-* [Atualização Atto NET X V250 - 23 Agosto 2019](#atto-x)
-* [Atualização Atto NET 5 V2.50 - 04 Setembro 2019](#atto-5)
-* [Atualização EterNix V110 - 23 Agosto 2019](#eternix)
-* [Atualização Atto FluxOn V3.22.1 - 23 Agosto 2019](#atto-fluxon)
-* [Atualização Atto Pixel Premium V186 - 22 Agosto 2019](#atto-pixel-premium)
-* [Atualização Atto Core V186 - 22 Agosto 2019](#atto-pixel-core)
-* [Atualização Atto Pixel - 07 Julho 2018](#atto-pixel)
+* [Atualização Atto NET X](#atto-x)
+* [Atualização Atto NET 5](#atto-5)
+* [Atualização EterNix](#eternix)
+* [Atualização Atto FluxOn](#atto-fluxon)
+* [Atualização Atto Pixel Premium](#atto-pixel-premium)
+* [Atualização Atto Core](#atto-pixel-core)
+* [Atualização Atto Pixel](#atto-pixel)
 
 ### Atto Net X
 
@@ -155,7 +155,17 @@ OBS: Tuners são invertidos (T1 SKS - T2 Canais)
 
 ![logo](https://i.ibb.co/q7JcPx9/pixel-premium.png)
 
-**Atualização Oficial do Atto Pixel Premium**
+**Atualização do Atto Pixel Premium V194**
+
+Baixar o arquivo:
+http://d1we923v3zvjj.cloudfront.net/pixel-premium-0194.zip
+Link alternativo:
+http://gatotv.is-very-good.org:8088/pixel-premium-0194.zip
+
+**Changelog**
+  - Resolve bug IKS Cabo v193
+  
+**Atualização do Atto Pixel Premium V186**
 
 Baixar o arquivo:
 http://gatotv.is-very-good.org:8088/pixel-premium-0186.zip
@@ -187,7 +197,17 @@ http://gatotv.is-very-good.org:8088/pixel-premium-0186.zip
 
 ![logo](https://i.ibb.co/MBry0YB/pixel-core.png)
 
-**Atualização Oficial do Atto Pixel Core**
+**Atualização do Atto Pixel Core V194**
+
+Baixar o arquivo:
+http://d1we923v3zvjj.cloudfront.net/pixel-core-0194.zip
+Link ALternativo:
+http://gatotv.is-very-good.org:8088/pixel-core-0194.zip
+
+**Changelog**
+  - Resolve bug IKS Cabo v193
+
+**Atualização do Atto Pixel Core V186**
 
 Baixar o arquivo:
 http://gatotv.is-very-good.org:8088/pixel-core-0186.zip
