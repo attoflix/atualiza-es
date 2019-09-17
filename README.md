@@ -280,6 +280,7 @@ https://github.com/Notos/awesome-atto-pixel
 
 Baixar o arquivo:
 * https://atto.tv/u/FluxON-Recovery.zip
+
 Link Alternativo:
 * https://www.mediafire.com/file/xryp14ciu2jfilo/FluxON-Recovery.zip/file
 
@@ -292,7 +293,7 @@ Link Alternativo:
   - Se piscar vermelho recuperação não foi iniciada e precisa verificar;
   - O aparelho irá iniciar automaticamente quando o recovery for concluído com exito.
 
-**Após reiniciar, faça download da ultima atualização e deixe seu aparelho com todos os benefícios do suporte premium **
+**Após reiniciar faça download da ultima atualização e deixe seu aparelho com todos os benefícios do suporte premium**
 
 * [Atualização Atto FluxOn](#atto-fluxon)
 
