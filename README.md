@@ -19,6 +19,7 @@ https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
 * [Atualização Atto Pixel Premium](#atto-pixel-premium)
 * [Atualização Atto Core](#atto-pixel-core)
 * [Atualização Atto Pixel](#atto-pixel)
+* [RECOVERY](#recovery)
 
 ### Atto Net X
 
@@ -271,5 +272,28 @@ Não precisa descompactar..
   
 Mais informação:
 https://github.com/Notos/awesome-atto-pixel
+
+
+### Recovery
+
+**RECOVERY - ARQUIVO PARA RECOVERY FLUXON**
+
+Baixar o arquivo:
+https://atto.tv/u/FluxON-Recovery.zip
+Link Alternativo:
+https://www.mediafire.com/file/xryp14ciu2jfilo/FluxON-Recovery.zip/file
+
+**Procedimentos pra atualizar pelo pendrive:**
+  - Descompactar o arquivo "FluxON-Recovery.zip";
+  - Copiar o arquivo "FluxOn_Q_xxBTAD.bin" de 16MB (16.448 KB) para o pendrive;
+  - Insira o mesmo pendrive na porta USB lateral do FluxON com a energia (fonte) desligada;
+  - Ligue a energia (fonte) enquanto pressiona e solta em sequência o botão OK no controle remoto;
+  - A recuperação começa quando o LED verde (fica meio amarelo rs por trás da carcaça) começa piscar;
+  - Se piscar vermelho recuperação não foi iniciada e precisa verificar;
+  - O aparelho irá iniciar automaticamente quando o recovery for concluído com exito.
+
+**Após reiniciar, faça download da ultima atualização e deixe seu aparelho com todos os benefícios do suporte premium **
+
+* [Atualização Atto FluxOn](#atto-fluxon)
 
 
