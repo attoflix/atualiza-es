@@ -126,11 +126,18 @@ Formatar o pendrive, em caso de "falha na atualização" ou "Arquivo invalido"..
 
 ![logo](https://i.ibb.co/crpvq8D/fluxon.png)
 
-**Atualização Oficial do Fluxon**
+**Atualização do Fluxon V0.3.30.0**
+
+Baixar o arquivo:
+http://www.mediafire.com/file/91q22yhgfbp3loj/FxON20190911.bin/file
+
+----------------------------------------------------------------------------------
+**Atualização do Fluxon V0.3.22.1**
 
 Baixar o arquivo:
 http://www.mediafire.com/file/no7lbv2pek3ugi0/FluXv0.3.22.1.bin/file
 
+-----------------------------------------------------------------------------------
 Não precisa descompactar..
 
 **Changelog**
