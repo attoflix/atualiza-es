@@ -323,3 +323,29 @@ Link Alternativo:
 
 * [Atualização Atto NET X](#atto-x)
 
+-----------------------------------------------------------------------------------------------------------------------
+
+**Recovery - Arquivo para Atto Net 5**
+
+Baixar o arquivo:
+* https://atto.tv/u/Recovery-Atto-NET5-2018.zip
+
+Link Alternativo:
+* https://www.mediafire.com/file/lwlqux12c0qsh1s/Recovery-Atto-NET5-2018.zip/file
+
+**Procedimentos pra atualizar pelo pendrive:**
+  - Baixe o arquivo Recovery-Atto-NET5-2018.zip;
+  - Desempacote o arquivo;
+  - Copie pra um pendrive formatado na hora (FAT32);
+  - Plugue, ligue o pendrive na entrada, porta USB da frente do AN5;
+  - Ligue o cabo da energia enquanto pressiona e solta a tecla "OK" em forma repetida no controle remoto;
+  - Se o LED laranja ficar ligado direto, o recovery não está ocorrendo e indica que arquivo, pendrive ou nome do arquivo não deu certo;
+  - Os LEDs vão piscando em sequencia enquanto a gravação, a recuperação estiver em andamento;
+  - O LED verde liga e fica ligado direto indicando sucesso no recovery. Reiniciar o AN5 retirando o cabo da energía;
+
+Link do tutorial pra fazer o recovery https://www.youtube.com/watch?v=zcoLB7IVCF8
+
+**Após reiniciar faça download da ultima atualização e deixe seu aparelho com todos os benefícios do suporte premium**
+
+* [Atualização Atto NET 5](#atto-5)
+
