@@ -279,9 +279,9 @@ https://github.com/Notos/awesome-atto-pixel
 **RECOVERY - ARQUIVO PARA RECOVERY FLUXON**
 
 Baixar o arquivo:
-https://atto.tv/u/FluxON-Recovery.zip
+* https://atto.tv/u/FluxON-Recovery.zip
 Link Alternativo:
-https://www.mediafire.com/file/xryp14ciu2jfilo/FluxON-Recovery.zip/file
+* https://www.mediafire.com/file/xryp14ciu2jfilo/FluxON-Recovery.zip/file
 
 **Procedimentos pra atualizar pelo pendrive:**
   - Descompactar o arquivo "FluxON-Recovery.zip";
