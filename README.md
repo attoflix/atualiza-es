@@ -349,3 +349,30 @@ Link do tutorial pra fazer o recovery https://www.youtube.com/watch?v=zcoLB7IVCF
 
 * [Atualização Atto NET 5](#atto-net-5)
 
+-----------------------------------------------------------------------------------------------------------------------
+
+**Recovery - Arquivo para EterNix**
+
+Baixar o arquivo:
+* https://atto.tv/u/recovery.EterNiX.v110.zip
+
+Link Alternativo:
+* https://atto.tv/u/recovery.EterNiX.v110.zip
+
+Link Alternativo 2:
+* http://gatotv.is-very-good.org:8088/recovery.EterNiX.v110.zip
+
+**Procedimentos pra atualizar pelo pendrive:**
+  - Baixe o arquivo recovery.EterNiX.v110.zip;
+  - Desempacote o arquivo;
+  - Arquivo AttoEter_X_xx0402.bin no pendrive ligado na porta USB da frente;
+  - Ligue o conector de energia na traseira do aparelho;
+  - Imediatamente sem perda de tempo começa pressionar e soltar botão OK no controle remoto;
+  - A três luzes LED ligam todos juntos por alguns segundos;
+  - (-O vermelho fica piscando se arquivo ou pendrive ou nome de arquivo incorreto-);
+  - Os três LED começam a piscar em sequência e o processo de recuperação do aparelho inicia;
+  - O LED verde se acenderá imediatamente após o sucesso no recovery e o Atto EterNix reiniciará.
+
+**Após reiniciar faça download da ultima atualização e deixe seu aparelho com todos os benefícios do suporte premium**
+
+* [Atualização EterNix](#eternix)
