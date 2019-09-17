@@ -321,7 +321,7 @@ Link Alternativo:
 
 **Após reiniciar faça download da ultima atualização e deixe seu aparelho com todos os benefícios do suporte premium**
 
-* [Atualização Atto NET X](#atto-x)
+* [Atualização Atto NET X](#atto-net-x)
 
 -----------------------------------------------------------------------------------------------------------------------
 
@@ -347,5 +347,5 @@ Link do tutorial pra fazer o recovery https://www.youtube.com/watch?v=zcoLB7IVCF
 
 **Após reiniciar faça download da ultima atualização e deixe seu aparelho com todos os benefícios do suporte premium**
 
-* [Atualização Atto NET 5](#atto-5)
+* [Atualização Atto NET 5](#atto-net-5)
 
