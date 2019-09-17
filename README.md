@@ -321,5 +321,5 @@ Link Alternativo:
 
 **Após reiniciar faça download da ultima atualização e deixe seu aparelho com todos os benefícios do suporte premium**
 
-* [Atualização Atto X](#atto-x)
+* [Atualização Atto NET X](#atto-x)
 
