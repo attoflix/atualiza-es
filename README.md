@@ -175,6 +175,8 @@ Link alternativo:
 **Changelog**
   - Resolve bug IKS Cabo v193
   
+-----------------------------------------------------------------------------------------
+
 **Atualização do Atto Pixel Premium V186**
 
 Baixar o arquivo:
@@ -183,6 +185,8 @@ http://gatotv.is-very-good.org:8088/pixel-premium-0186.zip
 **Changelog**
   - Melhoria na estabilidade de conexão com os serviços IKS - SKS
   - Melhora VoD e resolve outros bugs menores
+
+-----------------------------------------------------------------------------------------
 
 **Procedimentos pra atualizar pelo pendrive:**
   - Após baixar o arquivo "pixel-premium-XXX.zip", extrair o arquivo "update.zip" que vem dentro dele;
@@ -217,6 +221,8 @@ Link ALternativo:
 
 **Changelog**
   - Resolve bug IKS Cabo v193
+  
+--------------------------------------------------------------------------------------  
 
 **Atualização do Atto Pixel Core V186**
 
@@ -226,6 +232,8 @@ http://gatotv.is-very-good.org:8088/pixel-core-0186.zip
 **Changelog**
   - Melhoria na estabilidade de conexão com os serviços IKS - SKS
   - Melhora VoD e resolve outros bugs menores
+  
+-----------------------------------------------------------------------------------------
 
 **Procedimentos pra atualizar pelo pendrive:**
   - Após baixar o arquivo "pixel-core-XXX.zip", extrair o arquivo "update.zip" que vem dentro dele;
