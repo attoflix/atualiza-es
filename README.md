@@ -276,7 +276,7 @@ https://github.com/Notos/awesome-atto-pixel
 
 ### Recovery
 
-**RECOVERY - ARQUIVO PARA RECOVERY FLUXON**
+**Recovery - Arquivo para Atto FluxON**
 
 Baixar o arquivo:
 * https://atto.tv/u/FluxON-Recovery.zip
@@ -285,7 +285,8 @@ Link Alternativo:
 * https://www.mediafire.com/file/xryp14ciu2jfilo/FluxON-Recovery.zip/file
 
 **Procedimentos pra atualizar pelo pendrive:**
-  - Descompactar o arquivo "FluxON-Recovery.zip";
+  - Baixe o arquivo FluxON-Recovery.zip;
+  - Desempacote o arquivo;
   - Copiar o arquivo "FluxOn_Q_xxBTAD.bin" de 16MB (16.448 KB) para o pendrive;
   - Insira o mesmo pendrive na porta USB lateral do FluxON com a energia (fonte) desligada;
   - Ligue a energia (fonte) enquanto pressiona e solta em sequência o botão OK no controle remoto;
@@ -297,4 +298,28 @@ Link Alternativo:
 
 * [Atualização Atto FluxOn](#atto-fluxon)
 
+-----------------------------------------------------------------------------------------------------------------------
+
+**Recovery - Arquivo para Atto X**
+
+Baixar o arquivo:
+* https://atto.tv/u/AttoNETxRecovery.zip
+
+Link Alternativo:
+* http://www.mediafire.com/file/t57z04xei2b1n8p/AttoNETxRecovery.zip/file
+
+**Procedimentos pra atualizar pelo pendrive:**
+  - Baixe o arquivo AttoNETxRecovery.zip;
+  - Desempacote o arquivo;
+  - Copie pra um pendrive formatado na hora (FAT32);
+  - Plugue, ligue o pendrive na entrada, porta USB da frente do ANX;
+  - Ligue o cabo da energia enquanto pressiona e solta a tecla "OK" em forma repetida no controle remoto;
+  - Se o LED laranja ficar ligado direto ou piscando, o recovery não está ocorrendo e indica que arquivo não foi localizado devido a erro no pendrive ou nome do arquivo incorreto;
+  - Os LEDs devem piscar em sequencias indicando a leitura (lento), a transferência(rapido) e a gravação(aleatório);
+  - O LED verde se acenderá imediatamente após o sucesso no recovery e o Atto Net X reiniciará.
+  - Reiniciar o ANX retirando o cabo da energía.
+
+**Após reiniciar faça download da ultima atualização e deixe seu aparelho com todos os benefícios do suporte premium**
+
+* [Atualização Atto X](#atto-x)
 
