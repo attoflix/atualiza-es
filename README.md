@@ -3,6 +3,8 @@ Use nosso repositório de atualizações no GitHub, se você tiver problemas par
   - https://atto.tv/forum
   - https://atto.tv/antiforum
   
+Visite nossa nova página: http://attotube.com
+  
 Participe do suporte no grupo no Telegram. É seguro, sem expor seu contato ! 
 https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
 
