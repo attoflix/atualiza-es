@@ -127,13 +127,20 @@ Formatar o pendrive, em caso de "falha na atualização" ou "Arquivo invalido"..
 
 ![logo](https://i.ibb.co/crpvq8D/fluxon.png)
 
-**Atualização do Fluxon V0.3.30.0**
+**Atualização do Fluxon V0.3.33.0 - 27/09/19**
+
+Baixar o arquivo:
+https://img1.wsimg.com/blobby/go/35a4f90d-6d28-446e-b7ff-c2bf64cbbc0b/downloads/FluxON_v3.33.zip?ver=1570030228665
+
+----------------------------------------------------------------------------------
+
+**Atualização do Fluxon V0.3.30.0 - 11/09/19**
 
 Baixar o arquivo:
 http://www.mediafire.com/file/91q22yhgfbp3loj/FxON20190911.bin/file
 
 ----------------------------------------------------------------------------------
-**Atualização do Fluxon V0.3.22.1**
+**Atualização do Fluxon V0.3.22.1 - 22/08/19**
 
 Baixar o arquivo:
 http://www.mediafire.com/file/no7lbv2pek3ugi0/FluXv0.3.22.1.bin/file
@@ -165,7 +172,14 @@ OBS: Tuners são invertidos (T1 SKS - T2 Canais)
 
 ![logo](https://i.ibb.co/q7JcPx9/pixel-premium.png)
 
-**Atualização do Atto Pixel Premium V194**
+**Atualização do Atto Pixel Premium V198 - 27/09/19**
+
+Baixar o arquivo:
+* https://mega.nz/#!fB8GDQQL!AxcTUQVD-h3eBWhG2JVEdBNOop7tS4L1pI-7A3Kp7hg
+
+-----------------------------------------------------------------------------------------
+
+**Atualização do Atto Pixel Premium V194 - 11/09/19**
 
 Baixar o arquivo:
 * http://d1we923v3zvjj.cloudfront.net/pixel-premium-0194.zip
@@ -212,7 +226,14 @@ http://gatotv.is-very-good.org:8088/pixel-premium-0186.zip
 
 ![logo](https://i.ibb.co/MBry0YB/pixel-core.png)
 
-**Atualização do Atto Pixel Core V194**
+**Atualização do Atto Pixel Core V198 - 27/09/19**
+
+Baixar o arquivo:
+* https://mega.nz/#!rBl0BCCa!PYjqiXivM8iuFwCiL4vUNarQac5NTV8mtvFqJauDTH0
+  
+--------------------------------------------------------------------------------------  
+
+**Atualização do Atto Pixel Core V194 - 11/09/19**
 
 Baixar o arquivo:
 * http://d1we923v3zvjj.cloudfront.net/pixel-core-0194.zip
