@@ -25,13 +25,15 @@ https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
 
 ![logo](https://i.ibb.co/7Cg3Wyk/attox.png)
 
-**Atualização Oficial do Atto Net X**
+**Atualização do Atto Net X V2.50 - 23/08/19**
 
 Baixar o arquivo:
 * http://www.mediafire.com/file/b293cexeg41okus/ANXv250.bin
 
 Link Alternativo:
 * https://mega.nz/#!L8dkHAIQ!1_jXuuJjwRAEX4VXdb5-kiAH3iVzHvuJ0_ZaYdZe7XM
+
+------------------------------------------------------------------------------------------------
 
 Não precisa descompactar..
 
@@ -59,13 +61,15 @@ Reset de fabrica do aparelho, em caso de "Arquivo invalido" ou "Atualização Fa
 
 ![logo](https://i.ibb.co/wMbKrTG/atto5.jpg)
 
-**Atualização Oficial do Atto Net 5**
+**Atualização do Atto Net 5 V2.50 - 23/08/19**
 
 Arquivos para o Atto NET 5:
 
 https://www.mediafire.com/file/e4kx5jv9oqyk3c1/AN5v250_All.bin/file -- Todas as cidades
 https://www.mediafire.com/file/xq03z9a40qpppf2/AN5v250_RJ.bin/file -- Rio de Janeiro
 https://www.mediafire.com/file/3x7gssq67p9v59n/AN5v250_SP.bin/file -- São paulo
+
+--------------------------------------------------------------------------------------------------
 
 Não precisa descompactar..
 
@@ -91,13 +95,15 @@ Não precisa descompactar..
 
 ![logo](https://i.ibb.co/HK2J7JP/EterNIX.png)
 
-**Atualização Oficial do EterNix**
+**Atualização do EterNix V1.10 - 23/08/19**
 
 Baixar o arquivo:
 * http://www.mediafire.com/file/e7pmtalgu8id22y/NiXv110.bin/file
 
 Link Alternativo:
 * https://mega.nz/#!X5NkWSpI!0pPekAKdBq4COB-Ly9CVWHhl3g5WorM3N3RDqoYq9Tw
+
+-----------------------------------------------------------------------------------------------------
 
 Não precisa descompactar..
 
