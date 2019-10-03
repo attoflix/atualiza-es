@@ -3,11 +3,10 @@ Use nosso repositório de atualizações no GitHub, se você tiver problemas par
   - https://atto.tv/forum
   - https://atto.tv/antiforum
   
-Atualizações aparelhos Atto
-
-
 Participe do suporte no grupo no Telegram. É seguro, sem expor seu contato ! 
 https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
+
+**Escolha o modelo do seu aparelho**
 
 # Menu
 
