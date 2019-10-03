@@ -14,7 +14,7 @@ https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
 * [Atualização Atto FluxOn](#atto-fluxon)
 * [Atualização Atto Pixel Premium](#atto-pixel-premium)
 * [Atualização Atto Core](#atto-pixel-core)
-* [Atualização Atto Pixel](#atto-pixel)
+* [Atualização Atto Pixel Plus (normal)](#atto-pixel)
 * [RECOVERY](#recovery)
 
 -----------------------------------------------------------------------------------------------------------
