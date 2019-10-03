@@ -6,9 +6,7 @@ Use nosso repositório de atualizações no GitHub, se você tiver problemas par
 Participe do suporte no grupo no Telegram. É seguro, sem expor seu contato ! 
 https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
 
-**Escolha o modelo do seu aparelho**
-
-# Menu
+# Menu de atualizações:
 
 * [Atualização Atto NET X](#atto-net-x)
 * [Atualização Atto NET 5](#atto-net-5)
