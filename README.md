@@ -17,6 +17,8 @@ https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
 * [Atualização Atto Pixel](#atto-pixel)
 * [RECOVERY](#recovery)
 
+-----------------------------------------------------------------------------------------------------------
+
 ### Atto Net X
 
 ![logo](https://i.ibb.co/7Cg3Wyk/attox.png)
