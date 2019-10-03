@@ -5,7 +5,6 @@ Use nosso repositório de atualizações no GitHub, se você tiver problemas par
   
 Atualizações aparelhos Atto
 
-![logo](https://i.ibb.co/R3hPJWy/banner-atto.gif)
 
 Participe do suporte no grupo no Telegram. É seguro, sem expor seu contato ! 
 https://t.me/joinchat/AXmCAhEdDFwch70iHVdR0w
