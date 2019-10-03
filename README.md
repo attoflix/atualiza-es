@@ -54,6 +54,8 @@ Reset de fabrica do aparelho, em caso de "Arquivo invalido" ou "Atualização Fa
 **Videos Youtube**
   - [Atto Net X atualização](https://youtu.be/YIZHpgoOohk)
   - [Como alterar o DNS no Atto X / EterNIX](https://youtu.be/huAKVtUkyxk)
+  
+-----------------------------------------------------------------------------------------------------------  
 
 ### Atto Net 5
 
@@ -88,6 +90,8 @@ Não precisa descompactar..
   - [Atto net 5 Recovery passo a passo atualizado](https://youtu.be/zcoLB7IVCF8)
   - [Atto Net 5 funcionamento](https://youtu.be/vkXkehL_C6s)
   - [Atto net 5 configurar cs e conectar internet 2019](https://youtu.be/I6Q03lPEaAQ)
+ 
+----------------------------------------------------------------------------------------------------------- 
   
 ### EterNix
 
@@ -126,6 +130,8 @@ Formatar o pendrive, em caso de "falha na atualização" ou "Arquivo invalido"..
   - [Como alterar o DNS no Atto X / EterNIX](https://youtu.be/huAKVtUkyxk)  
   - [Unboxing Lançamento Atto Eternix 2019](https://youtu.be/X7ScNLbO02g)
   - [Demonstração IPTV Atto Eternix V. 1.10](https://youtu.be/TTIcB7cLJFc)
+
+-----------------------------------------------------------------------------------------------------------
   
 ### Atto Fluxon
 
@@ -171,7 +177,8 @@ OBS: Tuners são invertidos (T1 SKS - T2 Canais)
   - [Unboxing ATTO.TV FluxOn](https://youtu.be/g7MfvzQOaVU)
   - [COMO ATUALIZAR E CONFIGURA O ATTO FLUXON TV E ATIVA IKS](https://youtu.be/xD4eglJj-Ng)
   
-  
+-----------------------------------------------------------------------------------------------------------
+
 ### Atto Pixel Premium
 
 ![logo](https://i.ibb.co/q7JcPx9/pixel-premium.png)
@@ -225,7 +232,8 @@ http://gatotv.is-very-good.org:8088/pixel-premium-0186.zip
   - [Atto Pixel Premium - Guia para iniciantes](https://youtu.be/2DTsCLBZx50)  
   - [CS Oscam Atto Pixel Premium - Ativação](https://youtu.be/1ENj0eRlwAo)
   
-  
+-----------------------------------------------------------------------------------------------------------
+
 ### Atto Pixel Core
 
 ![logo](https://i.ibb.co/MBry0YB/pixel-core.png)
@@ -272,7 +280,8 @@ http://gatotv.is-very-good.org:8088/pixel-core-0186.zip
   - Se der certo, o Android color verde na tela da TV não irá morrer no final do processo;
   - Espere reiniciar e otimizar;
 
- 
+-----------------------------------------------------------------------------------------------------------
+
  ### Atto Pixel
 
 ![logo](https://i.ibb.co/c1XcknW/pixel-plus.jpg)
@@ -298,8 +307,9 @@ Não precisa descompactar..
 Mais informação:
 https://github.com/Notos/awesome-atto-pixel
 
+-----------------------------------------------------------------------------------------------------------
 
-### Recovery
+### Recovery's
 
 **Recovery - Arquivo para Atto FluxON**
 
