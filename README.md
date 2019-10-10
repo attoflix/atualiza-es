@@ -311,7 +311,7 @@ https://github.com/Notos/awesome-atto-pixel
 
 -----------------------------------------------------------------------------------------------------------
 
-### Recovery's
+### Recovery
 
 **Recovery - Arquivo para Atto FluxON**
 
