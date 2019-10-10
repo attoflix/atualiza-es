@@ -310,35 +310,19 @@ Mais informação:
 https://github.com/Notos/awesome-atto-pixel
 
 -----------------------------------------------------------------------------------------------------------
+### Recovery
 
 ![logo](https://www.healthhub.sg/sites/assets/Assets/Article%20Images/iStock-recovery.jpg)
 
-### Recovery
+# Menu de Recovery's:
 
-**Recovery - Arquivo para Atto FluxON**
+* [Recovery Atto NET X](#Recovery-AttoX)
+* [Recovery Atto NET 5](#Recovery-Atto5
+* [Recovery EterNix](#Recovery-Eternix)
+* [Recovery Atto FluxOn](#Recovery-Fluxon)
 
-Baixar o arquivo:
-* https://atto.tv/u/FluxON-Recovery.zip
 
-Link Alternativo:
-* https://www.mediafire.com/file/xryp14ciu2jfilo/FluxON-Recovery.zip/file
-
-**Procedimentos pra atualizar pelo pendrive:**
-  - Baixe o arquivo FluxON-Recovery.zip;
-  - Desempacote o arquivo;
-  - Copiar o arquivo "FluxOn_Q_xxBTAD.bin" de 16MB (16.448 KB) para o pendrive;
-  - Insira o mesmo pendrive na porta USB lateral do FluxON com a energia (fonte) desligada;
-  - Ligue a energia (fonte) enquanto pressiona e solta em sequência o botão OK no controle remoto;
-  - A recuperação começa quando o LED verde (fica meio amarelo rs por trás da carcaça) começa piscar;
-  - Se piscar vermelho recuperação não foi iniciada e precisa verificar;
-  - O aparelho irá iniciar automaticamente quando o recovery for concluído com exito.
-
-**Após reiniciar faça download da ultima atualização e deixe seu aparelho com todos os benefícios do suporte premium**
-
-* [Atualização Atto FluxOn](#atto-fluxon)
-
------------------------------------------------------------------------------------------------------------------------
-
+### Recovery-AttoX
 **Recovery - Arquivo para Atto X**
 
 Baixar o arquivo:
@@ -363,7 +347,7 @@ Link Alternativo:
 * [Atualização Atto NET X](#atto-net-x)
 
 -----------------------------------------------------------------------------------------------------------------------
-
+### Recovery-Atto5
 **Recovery - Arquivo para Atto Net 5**
 
 Baixar o arquivo:
@@ -390,6 +374,7 @@ Link do tutorial pra fazer o recovery https://www.youtube.com/watch?v=zcoLB7IVCF
 
 -----------------------------------------------------------------------------------------------------------------------
 
+### Recovery-Eternix
 **Recovery - Arquivo para EterNix**
 
 Baixar o arquivo:
@@ -415,3 +400,30 @@ Link Alternativo 2:
 **Após reiniciar faça download da ultima atualização e deixe seu aparelho com todos os benefícios do suporte premium**
 
 * [Atualização EterNix](#eternix)
+
+--------------------------------------------------------------------------------------------------------------------
+
+### Recovery-Fluxon
+**Recovery - Arquivo para Atto FluxON**
+
+Baixar o arquivo:
+* https://atto.tv/u/FluxON-Recovery.zip
+
+Link Alternativo:
+* https://www.mediafire.com/file/xryp14ciu2jfilo/FluxON-Recovery.zip/file
+
+**Procedimentos pra atualizar pelo pendrive:**
+  - Baixe o arquivo FluxON-Recovery.zip;
+  - Desempacote o arquivo;
+  - Copiar o arquivo "FluxOn_Q_xxBTAD.bin" de 16MB (16.448 KB) para o pendrive;
+  - Insira o mesmo pendrive na porta USB lateral do FluxON com a energia (fonte) desligada;
+  - Ligue a energia (fonte) enquanto pressiona e solta em sequência o botão OK no controle remoto;
+  - A recuperação começa quando o LED verde (fica meio amarelo rs por trás da carcaça) começa piscar;
+  - Se piscar vermelho recuperação não foi iniciada e precisa verificar;
+  - O aparelho irá iniciar automaticamente quando o recovery for concluído com exito.
+
+**Após reiniciar faça download da ultima atualização e deixe seu aparelho com todos os benefícios do suporte premium**
+
+* [Atualização Atto FluxOn](#atto-fluxon)
+
+-----------------------------------------------------------------------------------------------------------------------
